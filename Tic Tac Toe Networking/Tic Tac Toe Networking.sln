@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic Tac Toe Networking", "Tic Tac Toe Networking\Tic Tac Toe Networking.vcxproj", "{8090EFE0-C345-45C2-9DFF-0E1ADA81FABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8090EFE0-C345-45C2-9DFF-0E1ADA81FABF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8090EFE0-C345-45C2-9DFF-0E1ADA81FABF}.Debug|Win32.Build.0 = Debug|Win32
+		{8090EFE0-C345-45C2-9DFF-0E1ADA81FABF}.Release|Win32.ActiveCfg = Release|Win32
+		{8090EFE0-C345-45C2-9DFF-0E1ADA81FABF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
